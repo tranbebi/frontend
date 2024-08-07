@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "asm",
+			"path": "../../"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "job"
+	}
+}
